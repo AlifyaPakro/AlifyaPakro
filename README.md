@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Hello,%20I'm%20Jr.%20Developer&fontSize=40&fontColor=ffffff)
 # Hi 👋, I'm Alifya Alfatih Pakro
 
 ### Saya seorang siswa Makn Ende yang bersemangat dalam pengembangan website
